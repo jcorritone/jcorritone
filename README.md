@@ -17,4 +17,4 @@ This GitHub is for my personal projects and experiments in sports analytics. I'l
 
 🔗 Let's connect:
 - LinkedIn: [www.linkedin.com/in/joseph-corritone]
-- Email: [corritone@wisc.edu]
+- Email: [jcorritone@gmail.com]
