@@ -4,10 +4,10 @@
 
 📊 I love exploring how past data provides insight into performance, strategy, and decision-making in sports. I'm passionate about applying analysis to real-world problems across different leagues and levels of competition.
 
-**⚽ I'm especially interested in:**
-🏀 Team performance metrics  
-⚾ Salary cap & roster optimization  
-🏈 Game strategy and play-by-play data  
+⚽🏀🏈⚾ I'm especially interested in:
+- Team performance metrics  
+- Salary cap & roster optimization  
+- Game strategy and play-by-play data    
 
 🛠️ **Language I primarily use:**
 - R (ggplot2, dplyr)
