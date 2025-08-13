@@ -16,6 +16,9 @@
 📁 **What you'll find here**:  
 This GitHub is for my personal projects and experiments in sports analytics. I'll be posting deep dives into team data, statistical modeling projects, and explorations of data-driven sports insights.
 
+:books: **Key Projects**
+- Fantasy Efficacy Score (https://github.com/jcorritone/Fantasy-Efficacy-Score)
+
 🔗 Let's connect:
 - LinkedIn: [www.linkedin.com/in/joseph-corritone]
 - Email: [jcorritone@gmail.com]
