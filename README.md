@@ -9,8 +9,8 @@
 - Salary cap & roster optimization  
 - Game strategy and play-by-play data    
 
-🛠️ **Language I primarily use:**
-- R (ggplot2, dplyr)
+🛠️ **Languages I primarily use:**
+- R (dplyr, ggplot2)
 - Python (pandas)
 
 📁 **What you'll find here**:  
@@ -18,6 +18,7 @@ This GitHub is for my personal projects and experiments in sports analytics. I'l
 
 :books: **Key Projects**
 - Fantasy Efficacy Score (https://github.com/jcorritone/Fantasy-Efficacy-Score)
+- March Madness Simulation (https://github.com/jcorritone/March-Madness-Simulation)
 
 🔗 Let's connect:
 - LinkedIn: [www.linkedin.com/in/joseph-corritone]
