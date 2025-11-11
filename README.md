@@ -18,7 +18,7 @@ This GitHub is for my personal projects and experiments in sports analytics. I'l
 
 :books: **Key Projects**
 - Fantasy Efficacy Score (https://github.com/jcorritone/Fantasy-Efficacy-Score)
-- March Madness Simulation (https://github.com/jcorritone/March-Madness-Simulation)
+- The Big (What-If) Dance (https://github.com/jcorritone/The-Big-What-If-Dance)
 
 🔗 Let's connect:
 - LinkedIn: [www.linkedin.com/in/joseph-corritone]
